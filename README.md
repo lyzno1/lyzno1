@@ -18,7 +18,7 @@ Actively contributing to open-source projects like [Dify](https://github.com/lan
       media="(prefers-color-scheme: dark)"
     />
     <img height="195" src="https://github-readme-stats.vercel.app/api?username=lyzno1&count_private=true&include_all_commits=true&show_icons=true&custom_title=lyzno1%27s%20GitHub%20stats" alt="GitHub Stats" />
-  </picture>
+  </picture>&nbsp;&nbsp;
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lyzno1&layout=compact&theme=dark"
