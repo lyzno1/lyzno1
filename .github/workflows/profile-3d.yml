@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Profile
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
