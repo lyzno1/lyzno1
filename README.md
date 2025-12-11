@@ -1,18 +1,18 @@
 ## 👋 Hi, I'm yyh
 
-Full-stack developer focusing on **modern frontend engineering**, **Node.js ecosystems**, and **developer tooling**.
-I enjoy building clean, scalable applications and exploring how to improve developer experience through better workflows and automation.
+Frontend engineer focusing on **modern web development**, **Node.js ecosystems**, and **developer tooling**.
+I enjoy building clean, scalable interfaces and improving developer experience through better workflows and automation.
 
 My current interests include:
 
 * ⚛️ **Modern frontend** — React, Next.js, UI/UX patterns
 * 🟦 **TypeScript & Node.js** — API design, tooling, CI/CD
 * 🗂️ **Monorepo & engineering systems** — build pipelines, code quality, automation
-* ⚙️ **Backend development with Python / FastAPI**
+* ⚙️ **Python / FastAPI** for supporting services and tooling
 * 🔍 **Observability, debugging tools, and development workflows**
 * 📦 **Open-source ecosystems** and modern dev tools
 
-I like designing systems that feel elegant to use and maintain — both for myself and the teams that build on them.
+I like designing systems that feel elegant to use and maintain — both for myself and for the teams building on top of them.
 
 <p align="center">
   <picture>
