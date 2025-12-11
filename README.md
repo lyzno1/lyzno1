@@ -1,7 +1,18 @@
-## 👋 Hi there, I'm yyh
+## 👋 Hi, I'm yyh
 
-I'm currently exploring cutting-edge AI applications, focusing on **LLM Agents**.
-Actively contributing to open-source projects like [Dify](https://github.com/langgenius/dify) and building tools to test, visualize, and monitor AI workflows.
+Full-stack developer focusing on **modern frontend engineering**, **Node.js ecosystems**, and **developer tooling**.
+I enjoy building clean, scalable applications and exploring how to improve developer experience through better workflows and automation.
+
+My current interests include:
+
+* ⚛️ **Modern frontend** — React, Next.js, UI/UX patterns
+* 🟦 **TypeScript & Node.js** — API design, tooling, CI/CD
+* 🗂️ **Monorepo & engineering systems** — build pipelines, code quality, automation
+* ⚙️ **Backend development with Python / FastAPI**
+* 🔍 **Observability, debugging tools, and development workflows**
+* 📦 **Open-source ecosystems** and modern dev tools
+
+I like designing systems that feel elegant to use and maintain — both for myself and the teams that build on them.
 
 <p align="center">
   <picture>
