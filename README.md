@@ -1,18 +1,37 @@
 ## 👋 Hi, I'm yyh
 
-Frontend engineer focusing on **modern web development**, **Node.js ecosystems**, and **developer tooling**.
-I enjoy building clean, scalable interfaces and improving developer experience through better workflows and automation.
+I'm a **Node.js full-stack engineer** focusing on **modern web applications**, **React / TypeScript**, and building **scalable, maintainable engineering systems**.
 
-My current interests include:
+I care not only about shipping features, but about how systems evolve over time — improving **developer experience**, **code quality**, and **team workflows** through thoughtful architecture and tooling.
 
-* ⚛️ **Modern frontend** — React, Next.js, UI/UX patterns
-* 🟦 **TypeScript & Node.js** — API design, tooling, CI/CD
-* 🗂️ **Monorepo & engineering systems** — build pipelines, code quality, automation
-* ⚙️ **Python / FastAPI** for supporting services and tooling
-* 🔍 **Observability, debugging tools, and development workflows**
-* 📦 **Open-source ecosystems** and modern dev tools
+### Current Focus
 
-I like designing systems that feel elegant to use and maintain — both for myself and for the teams building on top of them.
+* ⚛️ **Modern Web & Frontend Engineering**
+
+  * React, Next.js
+  * Component design, state management, UI/UX engineering patterns
+
+* 🟦 **Node.js & TypeScript Full-Stack**
+
+  * API design, BFF and full-stack architectures
+  * Tooling, CI/CD, and developer productivity
+
+* 🗂️ **Engineering Systems & Monorepos**
+
+  * Build pipelines, testing strategies, code quality automation
+  * Scalable project structures and team collaboration workflows
+
+* 🤖 **Open Source & AI Applications**
+
+  * LLM-powered applications and developer tools
+  * Turning AI capabilities into real, usable products
+
+* ⚙️ **Python**
+
+  * FastAPI and backend services
+  * Tooling and system-level development
+
+I enjoy designing systems that are **pleasant to use and easy to maintain** — for myself and for the developers who build on top of them.
 
 <p align="center">
   <picture>
