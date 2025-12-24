@@ -1,31 +1,39 @@
 {
-    "type": "normal",
-    "fileName": "profile-3d.svg",
-    "backgroundColor": "#ffffff",
-    "foregroundColor": "#00000f",
-    "strongColor": "#111133",
-    "weakColor": "gray",
-    "radarColor": "#47a042",
-    "growingAnimation": true,
+  "type": "normal",
+  "fileName": "profile-3d.svg",
+
+  "backgroundColor": "#f2fbf2",
+  "foregroundColor": "#2d3a2d",
+  "strongColor": "#4cae4c",
+  "weakColor": "#cfe8cf",
+
+  "radarColor": "#6ac66a",
+
+  /* 贡献等级（从低到高） */
+  "contribColors": [
+    "#eaf6ea",
+    "#cfeccf",
+    "#9fdb9f",
+    "#6ac66a",
+    "#4cae4c"
+  ],
+
+  "growingAnimation": false,
+
+  "darkMode": {
+    "backgroundColor": "#0f0f0f",
+    "foregroundColor": "#e5e5e5",
+    "strongColor": "#98f598",
+    "weakColor": "#2a2a2a",
+
+    "radarColor": "#98f598",
+
     "contribColors": [
-      "#efefef",
-      "#d8e887",
-      "#8cc569",
-      "#47a042",
-      "#1d6a23"
-    ],
-    "darkMode": {
-      "backgroundColor": "#0d1117",
-      "foregroundColor": "#f0f6fc",
-      "strongColor": "#58a6ff",
-      "weakColor": "#30363d",
-      "radarColor": "#39d353",
-      "contribColors": [
-        "#161b22",
-        "#0e4429",
-        "#006d32",
-        "#26a641",
-        "#39d353"
-      ]
-    }
+      "#161b16",
+      "#1f3a1f",
+      "#2f6b2f",
+      "#6ad26a",
+      "#98f598"
+    ]
+  }
 }
