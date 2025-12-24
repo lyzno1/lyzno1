@@ -9,7 +9,6 @@
 
   "radarColor": "#6ac66a",
 
-  /* 贡献等级（从低到高） */
   "contribColors": [
     "#eaf6ea",
     "#cfeccf",
