@@ -1,37 +1,32 @@
 ## 👋 Hi, I'm yyh
 
-I'm a **Node.js full-stack engineer** focusing on **modern web applications**, **React / TypeScript**, and building **scalable, maintainable engineering systems**.
+I'm a **product-oriented full-stack engineer** focused on building  
+**scalable web systems and developer-friendly architectures**.
 
-I care not only about shipping features, but about how systems evolve over time — improving **developer experience**, **code quality**, and **team workflows** through thoughtful architecture and tooling.
+I care about more than just shipping features —  
+I design systems that improve **developer experience, consistency, and long-term maintainability**.
 
-### Current Focus
+### What I focus on
 
-* ⚛️ **Modern Web & Frontend Engineering**
+- ⚛️ **Frontend Architecture**
+  - React / TypeScript
+  - Component systems, state management, UI semantics
 
-  * React, Next.js
-  * Component design, state management, UI/UX engineering patterns
+- 🧩 **Engineering Systems**
+  - Monorepos, CI/CD, testing, code quality
+  - Scalable team workflows and infrastructure
 
-* 🟦 **Node.js & TypeScript Full-Stack**
+- 🔗 **Full-stack & BFF**
+  - Node.js, API design
+  - Bridging product logic and frontend systems
 
-  * API design, BFF and full-stack architectures
-  * Tooling, CI/CD, and developer productivity
+- 🤖 **AI-driven Products**
+  - LLM applications and developer tooling
+  - Turning AI into real, usable workflows
 
-* 🗂️ **Engineering Systems & Monorepos**
+---
 
-  * Build pipelines, testing strategies, code quality automation
-  * Scalable project structures and team collaboration workflows
-
-* 🤖 **Open Source & AI Applications**
-
-  * LLM-powered applications and developer tools
-  * Turning AI capabilities into real, usable products
-
-* ⚙️ **Python**
-
-  * FastAPI and backend services
-  * Tooling and system-level development
-
-I enjoy designing systems that are **pleasant to use and easy to maintain** — for myself and for the developers who build on top of them.
+I enjoy building systems that are **clear, consistent, and easy to evolve**.
 
 <p align="center">
   <picture>
