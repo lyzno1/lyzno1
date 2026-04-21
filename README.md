@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm yyh
 
-I'm a **product-oriented full-stack engineer** focused on building  
-**scalable web systems and developer-friendly architectures**.
+I'm a **product-oriented full-stack engineer** focused on building **scalable web systems and developer-friendly architectures**.
 
 I care about more than just shipping features —  
 I design systems that improve **developer experience, consistency, and long-term maintainability**.
