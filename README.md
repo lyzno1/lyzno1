@@ -1,36 +1,15 @@
 ## 👋 Hi, I'm yyh
 
-I'm a **product-oriented full-stack engineer** focused on building **scalable web systems and developer-friendly architectures**.
+I'm a frontend engineer focused on **product infrastructure** — the shared systems that make complex web products easier to build and evolve.
 
-I care about more than just shipping features —  
-I design systems that improve **developer experience, consistency, and long-term maintainability**.
+I work mainly with **React and TypeScript**, across component architecture, accessible UI, state management, testing, CI, and developer tooling. I also build AI-powered workflows where product behavior and engineering systems meet.
 
-### What I focus on
-
-- ⚛️ **Frontend Architecture**
-  - React / TypeScript
-  - Component systems, state management, UI semantics
-
-- 🧩 **Engineering Systems**
-  - Monorepos, CI/CD, testing, code quality
-  - Scalable team workflows and infrastructure
-
-- 🔗 **Full-stack & BFF**
-  - Node.js, API design
-  - Bridging product logic and frontend systems
-
-- 🤖 **AI-driven Products**
-  - LLM applications and developer tooling
-  - Turning AI into real, usable workflows
-
----
-
-I enjoy building systems that are **clear, consistent, and easy to evolve**.
+I care about **clear ownership, observable behavior, and maintainable systems** — not abstractions that only look good on paper.
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d.svg">
-    <img height="500" src="./profile-3d.svg" alt="3D Profile Contribution Graph" />
-  </picture>
+  <img
+    height="420"
+    src="./profile-3d.svg"
+    alt="3D profile contribution graph"
+  />
 </p>
